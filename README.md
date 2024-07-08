@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SPA Blog Platform
 
 ## Description
@@ -67,3 +68,6 @@ L'application comprend les composants suivants :
 
 Nom : Kevin Jalce  
 Email : kevin.jalce@gmail.com
+=======
+# SPABlog
+>>>>>>> 5c92b0fc3ee6f13505ae83e056dfcd88b279febc
